@@ -1,3 +1,6 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Hi+Melody&display=swap" rel="stylesheet">
+
 a {
   color:black;
 }
@@ -6,6 +9,7 @@ body{
 }
 h1 {
   font-size: 45px;
+  font-family: 'Hi Melody', cursive;
   text-align: center;
   border-bottom:1px solid gray;
   margin: 0;
@@ -13,6 +17,7 @@ h1 {
 }
 h3 {
     text-align: center;
+    font-family: 'Hi Melody', cursive;
     border-bottom:1px solid gray;
     margin: 0;
     padding: 10px;
@@ -35,6 +40,7 @@ ol{
 }
 @media(max-width:800px){
   h3 {
+font-family: 'Hi Melody', cursive;
 border-bottom:none;
   }
   h1 {
